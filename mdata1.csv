@@ -1,0 +1,21 @@
+code,region,Household size,Observation
+E12000001,North East,single person,395924
+E12000001,North East,multi person,779756
+E12000002,North West,single person,1014910
+E12000002,North West,multi person,2138494
+E12000003,Yorkshire and The Humber,single person,733558
+E12000003,Yorkshire and The Humber,multi person,1597100
+E12000004,East Midlands,single person,597177
+E12000004,East Midlands,multi person,1440157
+E12000005,West Midlands,single person,725807
+E12000005,West Midlands,multi person,1703686
+E12000006,East of England,single person,759808
+E12000006,East of England,multi person,1868974
+E12000007,London,single person,1001983
+E12000007,London,multi person,2421907
+E12000008,South East,single person,1081739
+E12000008,South East,multi person,2726227
+E12000009,South West,single person,741323
+E12000009,South West,multi person,1707558
+W92000004,Wales,single person,429559
+W92000004,Wales,multiperson,917555
