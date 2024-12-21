@@ -1,91 +1,46 @@
-Region,Age Group,Household Composition,Count,Percentage
-North West,Aged 15 years and under,Multi-person,1389162,0.9997
-North West,Aged 16 to 24 years,Multi-person,710358,0.9592
-North West,Aged 25 to 34 years,Multi-person,867671,0.8918
-North West,Aged 35 to 49 years,Multi-person,1215947,0.8805
-North West,Aged 50 years and over,Multi-person,2092512,0.7456
-North West,Aged 15 years and under,Single-person,380,0.0003
-North West,Aged 16 to 24 years,Single-person,30236,0.0408
-North West,Aged 25 to 34 years,Single-person,105234,0.1082
-North West,Aged 35 to 49 years,Single-person,165086,0.1195
-North West,Aged 50 years and over,Single-person,713977,0.2544
-Yorkshire and The Humber,Aged 15 years and under,Multi-person,1018203,0.9998
-Yorkshire and The Humber,Aged 16 to 24 years,Multi-person,532384,0.9547
-Yorkshire and The Humber,Aged 25 to 34 years,Multi-person,630559,0.8907
-Yorkshire and The Humber,Aged 35 to 49 years,Multi-person,887675,0.8835
-Yorkshire and The Humber,Aged 50 years and over,Multi-person,1574362,0.754
-Yorkshire and The Humber,Aged 15 years and under,Single-person,187,0.0002
-Yorkshire and The Humber,Aged 16 to 24 years,Single-person,25274,0.0453
-Yorkshire and The Humber,Aged 25 to 34 years,Single-person,77367,0.1093
-Yorkshire and The Humber,Aged 35 to 49 years,Single-person,117103,0.1165
-Yorkshire and The Humber,Aged 50 years and over,Single-person,513627,0.246
-East Midlands,Aged 15 years and under,Multi-person,879593,0.9998
-East Midlands,Aged 16 to 24 years,Multi-person,466618,0.9641
-East Midlands,Aged 25 to 34 years,Multi-person,554110,0.9049
-East Midlands,Aged 35 to 49 years,Multi-person,811518,0.8992
-East Midlands,Aged 50 years and over,Multi-person,1469002,0.7734
-East Midlands,Aged 15 years and under,Single-person,155,0.0002
-East Midlands,Aged 16 to 24 years,Single-person,17379,0.0359
-East Midlands,Aged 25 to 34 years,Single-person,58245,0.0951
-East Midlands,Aged 35 to 49 years,Single-person,90959,0.1008
-East Midlands,Aged 50 years and over,Single-person,430439,0.2266
-West Midlands,Aged 15 years and under,Multi-person,1146207,0.9997
-West Midlands,Aged 16 to 24 years,Multi-person,586361,0.9651
-West Midlands,Aged 25 to 34 years,Multi-person,692903,0.9063
-West Midlands,Aged 35 to 49 years,Multi-person,993609,0.8979
-West Midlands,Aged 50 years and over,Multi-person,1709624,0.7669
-West Midlands,Aged 15 years and under,Single-person,303,0.0003
-West Midlands,Aged 16 to 24 years,Single-person,21228,0.0349
-West Midlands,Aged 25 to 34 years,Single-person,71640,0.0937
-West Midlands,Aged 35 to 49 years,Single-person,112998,0.1021
-West Midlands,Aged 50 years and over,Single-person,519636,0.2331
-East of England,Aged 15 years and under,Multi-person,1182966,0.9991
-East of England,Aged 16 to 24 years,Multi-person,557339,0.9675
-East of England,Aged 25 to 34 years,Multi-person,731050,0.9118
-East of England,Aged 35 to 49 years,Multi-person,1111308,0.9055
-East of England,Aged 50 years and over,Multi-person,1896188,0.7741
-East of England,Aged 15 years and under,Single-person,1053,0.0009
-East of England,Aged 16 to 24 years,Single-person,18745,0.0325
-East of England,Aged 25 to 34 years,Single-person,70691,0.0882
-East of England,Aged 35 to 49 years,Single-person,115977,0.0945
-East of England,Aged 50 years and over,Single-person,553342,0.2259
-London,Aged 15 years and under,Multi-person,1693287,0.9998
-London,Aged 16 to 24 years,Multi-person,901637,0.9656
-London,Aged 25 to 34 years,Multi-person,1437082,0.9079
-London,Aged 35 to 49 years,Multi-person,1761550,0.8859
-London,Aged 50 years and over,Multi-person,1904293,0.7614
-London,Aged 15 years and under,Single-person,324,0.0002
-London,Aged 16 to 24 years,Single-person,32082,0.0344
-London,Aged 25 to 34 years,Single-person,145863,0.0921
-London,Aged 35 to 49 years,Single-person,226823,0.1141
-London,Aged 50 years and over,Single-person,596891,0.2386
-South East,Aged 15 years and under,Multi-person,1709650,0.9998
-South East,Aged 16 to 24 years,Multi-person,828489,0.9738
-South East,Aged 25 to 34 years,Multi-person,1036988,0.9166
-South East,Aged 35 to 49 years,Multi-person,1651769,0.9103
-South East,Aged 50 years and over,Multi-person,2779915,0.7761
-South East,Aged 15 years and under,Single-person,349,0.0002
-South East,Aged 16 to 24 years,Single-person,22313,0.0262
-South East,Aged 25 to 34 years,Single-person,94310,0.0834
-South East,Aged 35 to 49 years,Single-person,162690,0.0897
-South East,Aged 50 years and over,Single-person,802077,0.2239
-South West,Aged 15 years and under,Multi-person,959103,0.9997
-South West,Aged 16 to 24 years,Multi-person,514042,0.9676
-South West,Aged 25 to 34 years,Multi-person,615638,0.9077
-South West,Aged 35 to 49 years,Multi-person,912923,0.8986
-South West,Aged 50 years and over,Multi-person,1839574,0.7672
-South West,Aged 15 years and under,Single-person,251,0.0003
-South West,Aged 16 to 24 years,Single-person,17224,0.0324
-South West,Aged 25 to 34 years,Single-person,62584,0.0923
-South West,Aged 35 to 49 years,Single-person,102997,0.1014
-South West,Aged 50 years and over,Single-person,558266,0.2328
-Wales,Aged 15 years and under,Multi-person,546860,0.9993
-Wales,Aged 16 to 24 years,Multi-person,292736,0.9628
-Wales,Aged 25 to 34 years,Multi-person,339387,0.8992
-Wales,Aged 35 to 49 years,Multi-person,481874,0.8862
-Wales,Aged 50 years and over,Multi-person,961127,0.7514
-Wales,Aged 15 years and under,Single-person,380,0.0007
-Wales,Aged 16 to 24 years,Single-person,11322,0.0372
-Wales,Aged 25 to 34 years,Single-person,38038,0.1008
-Wales,Aged 35 to 49 years,Single-person,61866,0.1138
-Wales,Aged 50 years and over,Single-person,317953,0.2486
+Region,Age Group,Household Composition,Count
+North West,Aged 15 years and under,Single-person,380
+North West,Aged 16 to 24 years,Single-person,30236
+North West,Aged 25 to 34 years,Single-person,105234
+North West,Aged 35 to 49 years,Single-person,165086
+North West,Aged 50 years and over,Single-person,713977
+Yorkshire and The Humber,Aged 15 years and under,Single-person,187
+Yorkshire and The Humber,Aged 16 to 24 years,Single-person,25274
+Yorkshire and The Humber,Aged 25 to 34 years,Single-person,77367
+Yorkshire and The Humber,Aged 35 to 49 years,Single-person,117103
+Yorkshire and The Humber,Aged 50 years and over,Single-person,513627
+East Midlands,Aged 15 years and under,Single-person,155
+East Midlands,Aged 16 to 24 years,Single-person,17379
+East Midlands,Aged 25 to 34 years,Single-person,58245
+East Midlands,Aged 35 to 49 years,Single-person,90959
+East Midlands,Aged 50 years and over,Single-person,430439
+West Midlands,Aged 15 years and under,Single-person,303
+West Midlands,Aged 16 to 24 years,Single-person,21228
+West Midlands,Aged 25 to 34 years,Single-person,71640
+West Midlands,Aged 35 to 49 years,Single-person,112998
+West Midlands,Aged 50 years and over,Single-person,519636
+East of England,Aged 15 years and under,Single-person,1053
+East of England,Aged 16 to 24 years,Single-person,18745
+East of England,Aged 25 to 34 years,Single-person,70691
+East of England,Aged 35 to 49 years,Single-person,115977
+East of England,Aged 50 years and over,Single-person,553342
+London,Aged 15 years and under,Single-person,324
+London,Aged 16 to 24 years,Single-person,32082
+London,Aged 25 to 34 years,Single-person,145863
+London,Aged 35 to 49 years,Single-person,226823
+London,Aged 50 years and over,Single-person,596891
+South East,Aged 15 years and under,Single-person,349
+South East,Aged 16 to 24 years,Single-person,22313
+South East,Aged 25 to 34 years,Single-person,94310
+South East,Aged 35 to 49 years,Single-person,162690
+South East,Aged 50 years and over,Single-person,802077
+South West,Aged 15 years and under,Single-person,251
+South West,Aged 16 to 24 years,Single-person,17224
+South West,Aged 25 to 34 years,Single-person,62584
+South West,Aged 35 to 49 years,Single-person,102997
+South West,Aged 50 years and over,Single-person,558266
+Wales,Aged 15 years and under,Single-person,380
+Wales,Aged 16 to 24 years,Single-person,11322
+Wales,Aged 25 to 34 years,Single-person,38038
+Wales,Aged 35 to 49 years,Single-person,61866
+Wales,Aged 50 years and over,Single-person,317953
