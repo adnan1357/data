@@ -1,0 +1,171 @@
+region,code,Year,category,value
+Birmingham,E08000025,2011,life expectancy,77.325
+Birmingham,E08000025,2011,average salary,N/A
+Birmingham,E08000025,2012,life expectancy,77.045
+Birmingham,E08000025,2012,average salary,23316.8
+Birmingham,E08000025,2013,life expectancy,76.985
+Birmingham,E08000025,2013,average salary,23847.2
+Birmingham,E08000025,2014,life expectancy,77.115
+Birmingham,E08000025,2014,average salary,23831.6
+Birmingham,E08000025,2015,life expectancy,77.45
+Birmingham,E08000025,2015,average salary,23758.8
+Birmingham,E08000025,2016,life expectancy,77.575
+Birmingham,E08000025,2016,average salary,24367.2
+Birmingham,E08000025,2017,life expectancy,77.735
+Birmingham,E08000025,2017,average salary,25438.4
+Bolton,E08000001,2011,life expectancy,77.3
+Bolton,E08000001,2011,average salary,N/A
+Bolton,E08000001,2012,life expectancy,77.725
+Bolton,E08000001,2012,average salary,22058.4
+Bolton,E08000001,2013,life expectancy,77.9
+Bolton,E08000001,2013,average salary,23306.4
+Bolton,E08000001,2014,life expectancy,77.975
+Bolton,E08000001,2014,average salary,22380.8
+Bolton,E08000001,2015,life expectancy,77.585
+Bolton,E08000001,2015,average salary,22490
+Bolton,E08000001,2016,life expectancy,77.76
+Bolton,E08000001,2016,average salary,23769.2
+Bolton,E08000001,2017,life expectancy,77.525
+Bolton,E08000001,2017,average salary,24575.2
+Braintree,E07000067,2011,life expectancy,79.795
+Braintree,E07000067,2011,average salary,N/A
+Braintree,E07000067,2012,life expectancy,79.745
+Braintree,E07000067,2012,average salary,27341.6
+Braintree,E07000067,2013,life expectancy,80.16
+Braintree,E07000067,2013,average salary,28532.4
+Braintree,E07000067,2014,life expectancy,80.235
+Braintree,E07000067,2014,average salary,27690
+Braintree,E07000067,2015,life expectancy,79.945
+Braintree,E07000067,2015,average salary,27055.6
+Braintree,E07000067,2016,life expectancy,79.845
+Braintree,E07000067,2016,average salary,28210
+Braintree,E07000067,2017,life expectancy,79.855
+Braintree,E07000067,2017,average salary,28475.2
+Broxtowe,E07000172,2011,life expectancy,80.22
+Broxtowe,E07000172,2011,average salary,N/A
+Broxtowe,E07000172,2012,life expectancy,80.1
+Broxtowe,E07000172,2012,average salary,26962
+Broxtowe,E07000172,2013,life expectancy,80.09
+Broxtowe,E07000172,2013,average salary,27180.4
+Broxtowe,E07000172,2014,life expectancy,80.17
+Broxtowe,E07000172,2014,average salary,27872
+Broxtowe,E07000172,2015,life expectancy,80.3
+Broxtowe,E07000172,2015,average salary,27726.4
+Broxtowe,E07000172,2016,life expectancy,80.055
+Broxtowe,E07000172,2016,average salary,29723.2
+Broxtowe,E07000172,2017,life expectancy,80.02
+Broxtowe,E07000172,2017,average salary,31428.8
+Cardiff,W06000015,2011,life expectancy,77.935
+Cardiff,W06000015,2011,average salary,N/A
+Cardiff,W06000015,2012,life expectancy,78
+Cardiff,W06000015,2012,average salary,24835.2
+Cardiff,W06000015,2013,life expectancy,78.14
+Cardiff,W06000015,2013,average salary,25032.8
+Cardiff,W06000015,2014,life expectancy,78.225
+Cardiff,W06000015,2014,average salary,25084.8
+Cardiff,W06000015,2015,life expectancy,78.31
+Cardiff,W06000015,2015,average salary,25989.6
+Cardiff,W06000015,2016,life expectancy,78.025
+Cardiff,W06000015,2016,average salary,26972.4
+Cardiff,W06000015,2017,life expectancy,78.195
+Cardiff,W06000015,2017,average salary,27024.4
+Castle Point,E07000069,2017,life expectancy,83.24
+Castle Point,E07000069,2017,average salary,28288
+Castle Point,E07000069,2011,life expectancy,79.355
+Castle Point,E07000069,2011,average salary,N/A
+Castle Point,E07000069,2012,life expectancy,79.215
+Castle Point,E07000069,2012,average salary,25994.8
+Castle Point,E07000069,2013,life expectancy,79.205
+Castle Point,E07000069,2013,average salary,27591.2
+Castle Point,E07000069,2014,life expectancy,79.335
+Castle Point,E07000069,2014,average salary,27128.4
+Castle Point,E07000069,2015,life expectancy,79.575
+Castle Point,E07000069,2015,average salary,25313.6
+Castle Point,E07000069,2016,life expectancy,79.625
+Castle Point,E07000069,2016,average salary,26249.6
+Castle Point,E07000069,2017,life expectancy,79.835
+Castle Point,E07000069,2017,average salary,28288
+Charnwood,E07000130,2011,life expectancy,79.75
+Charnwood,E07000130,2011,average salary,N/A
+Charnwood,E07000130,2012,life expectancy,80.225
+Charnwood,E07000130,2012,average salary,23623.6
+Charnwood,E07000130,2013,life expectancy,80.54
+Charnwood,E07000130,2013,average salary,25261.6
+Charnwood,E07000130,2014,life expectancy,80.305
+Charnwood,E07000130,2014,average salary,24538.8
+Charnwood,E07000130,2015,life expectancy,80.42
+Charnwood,E07000130,2015,average salary,25428
+Charnwood,E07000130,2016,life expectancy,80.12
+Charnwood,E07000130,2016,average salary,25714
+Charnwood,E07000130,2017,life expectancy,80.51
+Charnwood,E07000130,2017,average salary,25740
+Cherwell,E07000177,2011,life expectancy,80.3
+Cherwell,E07000177,2011,average salary,N/A
+Cherwell,E07000177,2012,life expectancy,79.785
+Cherwell,E07000177,2012,average salary,26358.8
+Cherwell,E07000177,2013,life expectancy,79.89
+Cherwell,E07000177,2013,average salary,26031.2
+Cherwell,E07000177,2014,life expectancy,79.91
+Cherwell,E07000177,2014,average salary,26098.8
+Cherwell,E07000177,2015,life expectancy,80.525
+Cherwell,E07000177,2015,average salary,28334.8
+Cherwell,E07000177,2016,life expectancy,80.71
+Cherwell,E07000177,2016,average salary,29874
+Cherwell,E07000177,2017,life expectancy,80.945
+Cherwell,E07000177,2017,average salary,29842.8
+City of Edinburgh,S12000036,2011,life expectancy,77.315
+City of Edinburgh,S12000036,2011,average salary,N/A
+City of Edinburgh,S12000036,2012,life expectancy,77.645
+City of Edinburgh,S12000036,2012,average salary,27892.8
+City of Edinburgh,S12000036,2013,life expectancy,77.8
+City of Edinburgh,S12000036,2013,average salary,29057.6
+City of Edinburgh,S12000036,2014,life expectancy,77.825
+City of Edinburgh,S12000036,2014,average salary,27227.2
+City of Edinburgh,S12000036,2015,life expectancy,77.805
+City of Edinburgh,S12000036,2015,average salary,27882.4
+City of Edinburgh,S12000036,2016,life expectancy,77.915
+City of Edinburgh,S12000036,2016,average salary,30238
+City of Edinburgh,S12000036,2017,life expectancy,78.22
+City of Edinburgh,S12000036,2017,average salary,30877.6
+Liverpool,E08000012,2011,life expectancy,76.015
+Liverpool,E08000012,2011,average salary,N/A
+Liverpool,E08000012,2012,life expectancy,76.15
+Liverpool,E08000012,2012,average salary,22006.4
+Liverpool,E08000012,2013,life expectancy,76.2
+Liverpool,E08000012,2013,average salary,23576.8
+Liverpool,E08000012,2014,life expectancy,76.245
+Liverpool,E08000012,2014,average salary,24112.4
+Liverpool,E08000012,2015,life expectancy,75.965
+Liverpool,E08000012,2015,average salary,23597.6
+Liverpool,E08000012,2016,life expectancy,76.1
+Liverpool,E08000012,2016,average salary,24226.8
+Liverpool,E08000012,2017,life expectancy,76.43
+Liverpool,E08000012,2017,average salary,25074.4
+London,E12000007,2011,life expectancy,79.815
+London,E12000007,2011,average salary,N/A
+London,E12000007,2012,life expectancy,80.105
+London,E12000007,2012,average salary,31980
+London,E12000007,2013,life expectancy,80.17
+London,E12000007,2013,average salary,32599
+London,E12000007,2014,life expectancy,80.345
+London,E12000007,2014,average salary,32990
+London,E12000007,2015,life expectancy,80.415
+London,E12000007,2015,average salary,33320
+London,E12000007,2016,life expectancy,80.665
+London,E12000007,2016,average salary,33997.6
+London,E12000007,2017,life expectancy,80.88
+London,E12000007,2017,average salary,35510.8
+Manchester,E08000003,2011,life expectancy,75.255
+Manchester,E08000003,2011,average salary,N/A
+Manchester,E08000003,2012,life expectancy,75.545
+Manchester,E08000003,2012,average salary,21455.2
+Manchester,E08000003,2013,life expectancy,75.42
+Manchester,E08000003,2013,average salary,21720.4
+Manchester,E08000003,2014,life expectancy,75.345
+Manchester,E08000003,2014,average salary,22458.8
+Manchester,E08000003,2015,life expectancy,75.555
+Manchester,E08000003,2015,average salary,22880
+Manchester,E08000003,2016,life expectancy,75.915
+Manchester,E08000003,2016,average salary,23192
+Manchester,E08000003,2017,life expectancy,76.215
+Manchester,E08000003,2017,average salary,23561.2
